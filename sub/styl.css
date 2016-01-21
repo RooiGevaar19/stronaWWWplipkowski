@@ -1,0 +1,65 @@
+body {
+	background-image: url("prente/strand.jpg"); 
+	text-align: center;
+	background-repeat: no-repeat;
+  	background-size: 100% 100%;		
+}
+
+h1 {
+	font-size: 1in;
+	font-family: Sans, Calibri;
+	background-color: #000000;
+	text-align: center;
+	position: center;
+	color: #ffFF00;
+	padding: 0in;
+	margin: 0in;
+}
+
+content {
+	clear: both;	
+	font-size: 12px;
+	font-family: Sans, Calibri;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+div#knoppie {
+	clear: both;
+	background-color: #0088FF;
+	font-family: Sans, Calibri;
+	padding: 0.1in;
+	color: #FFFFFF;
+	height: 0.3in;
+	margin-top: 0.25in;
+	margin-left: 25%;
+	margin-right: 25%;
+	margin-bottom: 0.25in;
+	text-align: middle, center;
+}
+
+div#knoppie:hover {
+	clear: both;
+	background-color: #00aaFF;
+	font-family: Sans, Calibri;
+	padding: 0.1in;
+	color: #FFFFFF;
+	height: 0.3in;
+	margin-top: 0.25in;
+	margin-left: 25%;
+	margin-right: 25%;
+	margin-bottom: 0.25in;
+	text-align: middle, center;
+}
+
+a:link
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+a:visited
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
