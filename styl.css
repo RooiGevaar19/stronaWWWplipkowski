@@ -1,0 +1,49 @@
+body {
+	background-image: url("prente/joburg.jpg"); 
+	text-align: center;
+	background-repeat: no-repeat;
+  	background-size: 100% 100%;	
+}
+
+
+div#knoppie {
+	clear: both;
+	background-color: #0088FF;
+	font-family: Sans, Calibri;
+	font-size: 0.25in;
+	padding: 0.1in;
+	color: #FFFFFF;
+	height: 0.3in;
+	margin-top: 0.25in;
+	margin-left: 35%;
+	margin-right: 35%;
+	margin-bottom: 0.25in;
+	text-align: middle, center;
+}
+
+div#knoppie:hover {
+	clear: both;
+	background-color: #00aaFF;
+	font-family: Sans, Calibri;
+	padding: 0.1in;
+	font-size: 0.25in;
+	color: #FFFFFF;
+	height: 0.3in;
+	margin-top: 0.25in;
+	margin-left: 35%;
+	margin-right: 35%;
+	margin-bottom: 0.25in;
+	text-align: middle, center;
+}
+
+a:link
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+a:visited
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
