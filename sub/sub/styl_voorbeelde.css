@@ -1,0 +1,36 @@
+body {
+	background-image: url("prente/berge.jpg");
+  	background-size: 100% 100%; 
+	text-align: center;	
+}
+
+table {
+	border: 1px solid black;
+	border-spacing: 2px;
+	font-family: Sans, Calibri;
+	background-color: #005500;
+}
+
+tr#teks {
+	clear: both;
+	background-color:#005500; 
+	color: #ffff00;
+}
+
+auteur {
+	font-family: Sans, Calibri;	
+	font-size: 0.1in;
+	color: #ffff00;
+}
+
+a:link
+{
+	color: #ffffff;
+	text-decoration: none;
+}
+
+a:visited
+{
+	color: #ffffff;
+	text-decoration: none;
+}

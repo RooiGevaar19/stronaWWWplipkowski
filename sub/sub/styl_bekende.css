@@ -1,0 +1,31 @@
+body {
+	background-image: url("prente/pretoria.jpg");
+  	background-size: 100% 100%;
+	text-align: center;
+	padding: 0in;	
+}
+
+table {
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+img#persoon {
+	margin-right: 15%;
+	width: 2.5in;
+	height: relative;
+	float: right;
+}
+
+teks {
+	font-family: Sans, Calibri;
+	font-size: 0.2in;
+	color: #ffffff;
+	text-shadow: 3px 3px 5px black;
+}
+
+auteur {
+	font-family: Sans, Calibri;	
+	font-size: 0.1in;
+	color: #ffffFF;
+}
