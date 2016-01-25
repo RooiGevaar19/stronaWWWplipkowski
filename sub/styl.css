@@ -1,8 +1,9 @@
 body {
 	background-image: url("prente/strand.jpg"); 
 	text-align: center;
-	background-repeat: repeat;
-  	background-size: 100% 100%;		
+	background-repeat: no-repeat;
+  	background-height: 100%;
+	background-width: relative;
 }
 
 h1 {
